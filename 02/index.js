@@ -1,7 +1,3 @@
-// Filtrar maior string
-// Utilizando reduce() faça um programa que determina a maior string (em comprimento) dentre os elementos de um array de strings
-//  e imprime essa string.
-
 const cidades = [
     "Salvador",//8
     "São Paulo",//9

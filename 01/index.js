@@ -1,4 +1,3 @@
-// Usando o método sort() resolva as seguintes questões:
 // a) Ordenar o array abaixo em ordem crescente.
 const numeros = [10, 1, 5, 50, 20, 30, 3, 4, 8, 2];
 
